@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Pragmatica";
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  src: url("../public/fonts/Pragmatica/Pragmatica-ExtraLight.ttf");
+}
+
+@font-face {
+  font-family: "Nimbus";
+  font-weight: 900;
+  font-style: light;
+  font-display: swap;
+  src: url("../public/fonts/Nimbus/Nimbus-Sans.ttf");
+}
+
+@font-face {
+  font-family: "FreeSans-Bold";
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  src: url("../public/fonts/FreeSans/FreeSansBold.ttf");
+}
+
+@font-face {
+  font-family: "Mossallas";
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  src: url("../public/fonts/Mosallas/mosallas.ttf");
+}
